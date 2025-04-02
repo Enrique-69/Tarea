@@ -10,10 +10,15 @@
 | **Fuente de Alimentación** | Corsair CX650 650 W 80 Plus Bronze | 64,90€ | [Ver aquí](https://www.pccomponentes.com/corsair-cx650-650-w-80-plus-bronze) |
 | **Tarjeta Gráfica** | ASRock Challenger D AMD Radeon RX 6600 8 GB GDDR6 | 232,95€ | [Ver aquí](https://www.pccomponentes.com/asrock-challenger-d-amd-radeon-rx-6600-8-gb-gddr6) |
 | **Disco Duro** | Forgoten Nimbus Pro Disco SSD 1TB 7400MB/s NVMe PCIe 4.0 M.2 Gen4 | 100,02€ | [Ver aquí](https://www.pccomponentes.com/disco-duro-forgeon-nimbus-pro-disco-ssd-1tb-7400mb-s-nvme-pcie-40-m2-gen4) |
+| **Total** | **Suma de todos los componentes** | **846,37€** | - |
+
+---
+
+¡Espero que este cuadro te sea útil! 🚀 Si necesitas más ajustes, dime. 😃  
+
 
 
 ### Componentes de AMD
-
 
 | Componente | Descripción | Precio | Enlace |
 |------------|-------------|--------|--------|
@@ -25,4 +30,7 @@
 | **Fuente de Alimentación** | Corsair CX650 650W 80 Plus Bronze | 64,90€ | [Ver aquí](https://www.pccomponentes.com/corsair-cx650-650-w-80-plus-bronze) |
 | **Tarjeta Gráfica** | ASUS Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6 DLSS3 | 335,99€ | [Ver aquí](https://www.pccomponentes.com/asus-dual-geforce-rtx-4060-v2-oc-edition-8gb-gddr6-dlss3) |
 | **Disco Duro** | Kingston NV1 1TB Disco SSD 600/2000MB/s NVMe PCIe 4.0 M.2 Gen3 2280 3D Nand | 58€ | [Ver aquí](https://www.pccomponentes.com/kingston-nv1-1tb-disco-ssd-600-2000mb-s-nvme-pcie-40-m2-gen3-2280-3d-nand) |
+| **Total** | **Suma de todos los componentes** | **858,78€** | - |
+
+
 
