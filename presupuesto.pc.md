@@ -14,14 +14,15 @@
 
 ### Componentes de AMD
 
-| Categoría | Componente | Precio | Enlace |
+
+| Componente | Descripción | Precio | Enlace |
 |------------|-------------|--------|--------|
-| **Componentes base** | **Procesador:** AMD Ryzen 5 5600 3.5GHz 6/12 65W Box | 88,63€ | [Ver aquí](https://www.pccomponentes.com/amd-ryzen-5-5600-35ghz-box) |
-|  | **Placa base:** MSI B550M PRO-VDH | 93,29€ | [Ver aquí](http://pccomponentes.com/msi-b550m-pro-vdh) |
-|  | **Memoria RAM:** Corsair Vengeance LPX DDR4 3200 PC4-25600 16GB 2x8GB CL16 Negro | 37,99€ | [Ver aquí](https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-16gb-2x8gb-cl16-negro) |
-|  | **Caja/Torre:** Nox Hummer Nova ARGB Cristal Templado USB 3.0 Blanca | 117,99€ | [Ver aquí](https://www.pccomponentes.com/nox-hummer-astra-argb-cristal-templado-usb-30-blanca) |
-|  | **Refrigeración líquida:** Tempest Liquid Cooler 120 ARB Refrigeración Líquida Blanca | 61,99€ | [Ver aquí](https://www.pccomponentes.com/tempest-liquid-cooler-240-kit-refrigeracion-liquida-blanco) |
-|  | **Fuente de alimentación:** Corsair CX650 650W 80 Plus Bronze | 64,90€ | [Ver aquí](https://www.pccomponentes.com/corsair-cx650-650-w-80-plus-bronze) |
-| **Gráfica** | **Tarjeta gráfica:** ASUS Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6 DLSS3 | 335,99€ | [Ver aquí](https://www.pccomponentes.com/asus-dual-geforce-rtx-4060-ti-v2-oc-edition-8gb-gddr6-dlss3) |
-| **Almacenamiento** | **Disco duro:** Kingston NV1 1TB Disco SSD 600/2000MB/s NVMe PCIe 4.0 M.2 Gen3 2280 3D Nand | 58€ | [Ver aquí](https://www.pccomponentes.com/disco-duro-kingston-nv3-1tb-disco-ssd-6000mb-s-nvme-pcie-40-m2-gen4-2280-3d-nand) |
+| **Procesador** | AMD Ryzen 5 5600 3.5GHz 6/12 65W Box | 88,63€ | [Ver aquí](https://www.pccomponentes.com/amd-ryzen-5-5600-35ghz-box) |
+| **Placa Base** | MSI B550M PRO-VDH | 93,29€ | [Ver aquí](http://pccomponentes.com/msi-b550m-pro-vdh) |
+| **Memoria RAM** | Corsair Vengeance LPX DDR4 3200 PC4-25600 16GB 2x8GB CL16 Negro | 37,99€ | [Ver aquí](https://www.pccomponentes.com/corsair-vengeance-lpx-ddr4-3200-pc4-25600-16gb-2x8gb-cl16-negro) |
+| **Caja/Torre** | Nox Hummer Nova ARGB Cristal Templado USB 3.0 Blanca | 117,99€ | [Ver aquí](https://www.pccomponentes.com/nox-hummer-nova-argb-cristal-templado-usb-30-blanca) |
+| **Refrigeración Líquida** | Tempest Liquid Cooler 120 ARB Refrigeración Líquida Blanca | 61,99€ | [Ver aquí](https://www.pccomponentes.com/tempest-liquid-cooler-120-arb-refrigeracion-liquida-blanca) |
+| **Fuente de Alimentación** | Corsair CX650 650W 80 Plus Bronze | 64,90€ | [Ver aquí](https://www.pccomponentes.com/corsair-cx650-650-w-80-plus-bronze) |
+| **Tarjeta Gráfica** | ASUS Dual GeForce RTX 4060 V2 OC Edition 8GB GDDR6 DLSS3 | 335,99€ | [Ver aquí](https://www.pccomponentes.com/asus-dual-geforce-rtx-4060-v2-oc-edition-8gb-gddr6-dlss3) |
+| **Disco Duro** | Kingston NV1 1TB Disco SSD 600/2000MB/s NVMe PCIe 4.0 M.2 Gen3 2280 3D Nand | 58€ | [Ver aquí](https://www.pccomponentes.com/kingston-nv1-1tb-disco-ssd-600-2000mb-s-nvme-pcie-40-m2-gen3-2280-3d-nand) |
 
